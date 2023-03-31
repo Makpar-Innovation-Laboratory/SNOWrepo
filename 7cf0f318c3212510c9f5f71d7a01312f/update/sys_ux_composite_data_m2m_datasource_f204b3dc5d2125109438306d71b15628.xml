@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">3604b3dc862125106d3b74c38eef2529</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">ba04b3dc0021251046265ae22ecca028</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-09 14:04:21</sys_created_on>
+        <sys_id>f204b3dc5d2125109438306d71b15628</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_f204b3dc5d2125109438306d71b15628</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-09 14:04:21</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>
