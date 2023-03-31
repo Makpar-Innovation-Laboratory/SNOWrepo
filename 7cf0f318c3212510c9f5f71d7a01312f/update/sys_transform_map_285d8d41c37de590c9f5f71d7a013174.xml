@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copy_empty_fields>false</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>ITSM APP T Map</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_makr2_itsm_app_0_istm_app_import_set</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>skonurdev</sys_created_by>
+        <sys_created_on>2023-03-23 20:07:37</sys_created_on>
+        <sys_id>285d8d41c37de590c9f5f71d7a013174</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITSM APP T Map</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_transform_map_285d8d41c37de590c9f5f71d7a013174</sys_update_name>
+        <sys_updated_by>skonurdev</sys_updated_by>
+        <sys_updated_on>2023-03-23 20:07:37</sys_updated_on>
+        <target_table>x_makr2_itsm_app_0_itsm_app_data</target_table>
+    </sys_transform_map>
+</record_update>

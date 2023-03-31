@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="ITSM Application Config">760473dcc3212510c9f5f71d7a0131e0</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Dashboards">163a913b532c0110aab9ddeeff7b1241</macroponent>
+        <macroponent_config>{ }</macroponent_config>
+        <name>Customer Landing Page</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Landing Page">7604b3dc4c21251051cc736523a23f2d</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-28 12:52:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d0d9d12ec33961d0c9f5f71d7a0131f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Landing Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_ux_screen_d0d9d12ec33961d0c9f5f71d7a0131f7</sys_update_name>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-28 12:52:29</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d0d9d12ec33961d0c9f5f71d7a0131f7"/>
+</record_update>

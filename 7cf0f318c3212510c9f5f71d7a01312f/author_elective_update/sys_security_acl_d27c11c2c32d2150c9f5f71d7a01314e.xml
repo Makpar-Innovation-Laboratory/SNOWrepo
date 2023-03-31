@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_makr2_itsm_app_0_task</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-14 13:31:26</sys_created_on>
+        <sys_id>d27c11c2c32d2150c9f5f71d7a01314e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_makr2_itsm_app_0_task</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_security_acl_d27c11c2c32d2150c9f5f71d7a01314e</sys_update_name>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-14 13:31:26</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</application>
+        <file_path/>
+        <instance_id>d46afe09db49e9183050ac44d49619dc</instance_id>
+        <instance_name>makparcorporationdemo4</instance_name>
+        <name>sys_security_acl_d27c11c2c32d2150c9f5f71d7a01314e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_makr2_itsm_app_0_task</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>tklockdev</sys_created_by><sys_created_on>2023-03-14 13:31:26</sys_created_on><sys_id>d27c11c2c32d2150c9f5f71d7a01314e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_makr2_itsm_app_0_task</sys_name><sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package><sys_policy/><sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope><sys_update_name>sys_security_acl_d27c11c2c32d2150c9f5f71d7a01314e</sys_update_name><sys_updated_by>tklockdev</sys_updated_by><sys_updated_on>2023-03-14 13:31:26</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1491348485</payload_hash>
+        <record_name>x_makr2_itsm_app_0_task</record_name>
+        <reverted_from/>
+        <source>3cf0f318c3212510c9f5f71d7a013131</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-14 13:31:26</sys_created_on>
+        <sys_id>9a7c51c2c32d2150c9f5f71d7a01310b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186e0518bdc0000001</sys_recorded_at>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-14 13:31:26</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>d27c51c2592d215037b7ba889fe6df0b</update_guid>
+        <update_guid_history>d27c51c2592d215037b7ba889fe6df0b:-1491348485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-14 13:32:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>63c5aa4977e74fc0a96f7fbbbd7c1000</sys_id>
+        <sys_metadata>d27c11c2c32d2150c9f5f71d7a01314e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_makr2_itsm_app_0_task</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_parent display_value="">a57cdd82c32d2150c9f5f71d7a01318a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_scope_delete display_value="">4dc9d44d7a5b4530b9c3ac2a9c830f10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_d27c11c2c32d2150c9f5f71d7a01314e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_d27c11c2c32d2150c9f5f71d7a01314e">9a7c51c2c32d2150c9f5f71d7a01310b</sys_update_version>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-14 13:32:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

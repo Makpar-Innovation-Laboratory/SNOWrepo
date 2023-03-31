@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_impact" label="impact" language="en" table="x_makr2_itsm_app_0_istm_app_import_set">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_impact</element>
+            <help/>
+            <hint/>
+            <label>impact</label>
+            <language>en</language>
+            <name>x_makr2_itsm_app_0_istm_app_import_set</name>
+            <plural>impacts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>skonurdev</sys_created_by>
+            <sys_created_on>2023-03-23 20:02:27</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>impact</sys_name>
+            <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+            <sys_update_name>sys_documentation_x_makr2_itsm_app_0_istm_app_import_set_u_impact_en</sys_update_name>
+            <sys_updated_by>skonurdev</sys_updated_by>
+            <sys_updated_on>2023-03-23 20:02:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

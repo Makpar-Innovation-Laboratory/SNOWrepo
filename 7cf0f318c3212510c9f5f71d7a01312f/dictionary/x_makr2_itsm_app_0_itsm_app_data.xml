@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e8b001c9c3f9e590c9f5f71d7a01317b" label="ITSM App Data" max_length="40" name="x_makr2_itsm_app_0_itsm_app_data" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Assigned to" max_length="40" name="assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assignment Group" max_length="40" name="assignment_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cause" max_length="40" name="cause" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Change Request" max_length="40" name="change_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Close Code" max_length="40" name="close_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Type" max_length="40" name="contact_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Impact" max_length="40" name="impact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Opened AT" max_length="40" name="opened_at" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Opened By" max_length="40" name="opened_by" type="string"/>
+        <element label="Priority Confirmation" max_length="40" name="priority_confirmation" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Problem ID" max_length="40" name="problem_id" type="string"/>
+        <element label="Reassignment" max_length="40" name="reassignment" type="integer"/>
+        <element label="Reopened" max_length="40" name="reopened" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolved at" max_length="40" name="resolved_at" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolved By" max_length="40" name="resolved_by" type="string"/>
+        <element label="SLA" max_length="40" name="sla" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Symptom" max_length="40" name="symptom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Urgency" max_length="40" name="urgency" type="string"/>
+    </element>
+</database>

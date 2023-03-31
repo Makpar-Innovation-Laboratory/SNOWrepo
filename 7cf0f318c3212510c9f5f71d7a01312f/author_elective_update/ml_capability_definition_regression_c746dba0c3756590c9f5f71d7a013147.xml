@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_regression">
+    <ml_capability_definition_regression action="DELETE">
+        <active>true</active>
+        <capability display_value="Regression">074a5f23532200105e90ddeeff7b1297</capability>
+        <current_solution_version>7</current_solution_version>
+        <dataset_language>en</dataset_language>
+        <fields>priority</fields>
+        <filter table="x_makr2_itsm_app_0_itsm_app_data">openedANYTHING^EQ<item endquery="false" field="opened" goto="false" newquery="false" operator="ANYTHING" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <output_field>age_of_machine</output_field>
+        <output_fields/>
+        <request_source>ui</request_source>
+        <solution_label>itsm_regression_test5</solution_label>
+        <solution_name>ml_x_makr2_x_makr2_itsm_app_0_global_itsm_regression_test5</solution_name>
+        <solution_parameters/>
+        <solution_properties/>
+        <stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords>
+        <sys_class_name>ml_capability_definition_regression</sys_class_name>
+        <sys_created_by>cnesbittdev</sys_created_by>
+        <sys_created_on>2023-03-22 16:49:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c746dba0c3756590c9f5f71d7a013147</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>itsm_regression_test5</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>ml_capability_definition_regression_c746dba0c3756590c9f5f71d7a013147</sys_update_name>
+        <sys_updated_by>cnesbittdev</sys_updated_by>
+        <sys_updated_on>2023-03-22 19:52:08</sys_updated_on>
+        <table>x_makr2_itsm_app_0_itsm_app_data</table>
+        <training_frequency>run_once</training_frequency>
+        <word_vector_corpus display_value="Incidents (last 6 months)">4a6a969e53203300f214ddeeff7b1272</word_vector_corpus>
+    </ml_capability_definition_regression>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</application>
+        <file_path/>
+        <instance_id>d46afe09db49e9183050ac44d49619dc</instance_id>
+        <instance_name>makparcorporationdemo4</instance_name>
+        <name>ml_capability_definition_regression_c746dba0c3756590c9f5f71d7a013147</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ml_capability_definition_regression"><ml_capability_definition_regression action="INSERT_OR_UPDATE"><active>true</active><capability display_value="Regression">074a5f23532200105e90ddeeff7b1297</capability><current_solution_version>7</current_solution_version><dataset_language>en</dataset_language><fields>priority</fields><filter table="x_makr2_itsm_app_0_itsm_app_data">openedANYTHING^EQ<item endquery="false" field="opened" goto="false" newquery="false" operator="ANYTHING" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><output_field>age_of_machine</output_field><output_fields/><request_source>ui</request_source><solution_label>itsm_regression_test5</solution_label><solution_name>ml_x_makr2_x_makr2_itsm_app_0_global_itsm_regression_test5</solution_name><solution_parameters/><solution_properties/><stopwords>a6282a25533333008c5bddeeff7b12c3</stopwords><sys_class_name>ml_capability_definition_regression</sys_class_name><sys_created_by>cnesbittdev</sys_created_by><sys_created_on>2023-03-22 16:49:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c746dba0c3756590c9f5f71d7a013147</sys_id><sys_mod_count>7</sys_mod_count><sys_name>itsm_regression_test5</sys_name><sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package><sys_policy/><sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope><sys_update_name>ml_capability_definition_regression_c746dba0c3756590c9f5f71d7a013147</sys_update_name><sys_updated_by>cnesbittdev</sys_updated_by><sys_updated_on>2023-03-22 19:52:08</sys_updated_on><table>x_makr2_itsm_app_0_itsm_app_data</table><training_frequency>run_once</training_frequency><word_vector_corpus display_value="Incidents (last 6 months)">4a6a969e53203300f214ddeeff7b1272</word_vector_corpus></ml_capability_definition_regression></record_update>]]></payload>
+        <payload_hash>-1440617839</payload_hash>
+        <record_name>itsm_regression_test5</record_name>
+        <reverted_from/>
+        <source>3cf0f318c3212510c9f5f71d7a013131</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>cnesbittdev</sys_created_by>
+        <sys_created_on>2023-03-22 19:52:09</sys_created_on>
+        <sys_id>05500478c3796590c9f5f71d7a013175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1870ae0fa2a0000001</sys_recorded_at>
+        <sys_updated_by>cnesbittdev</sys_updated_by>
+        <sys_updated_on>2023-03-22 19:52:09</sys_updated_on>
+        <type>Regression Definition</type>
+        <update_guid>4d5004783c79659060951fa9fb2efd74</update_guid>
+        <update_guid_history>4d5004783c79659060951fa9fb2efd74:-1440617839,5636a3ac5fb56590d2cadfab4b16d396:-375784341,ed752b2c16b56590433beaca5c512148:-585504377,dac467e873b565902b0ad1c0c2af4388:-1047702630,a25467688db56590c0483049cdbf32b8:-1497282748,2ec167a4bab56590c9fb82410f56cf88:-209336093,44e89ba4e07565903d3edd8e9edc2153:-2008345029,f8a65fa0cd756590be2cbcc1bfddc6f5:226467927</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="itsm_regression_test5">1de1a2e2c3b9a1d0c9f5f71d7a013177</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>cnesbittdev</sys_created_by>
+        <sys_created_on>2023-03-28 18:07:24</sys_created_on>
+        <sys_db_object display_value="" name="ml_capability_definition_regression">ml_capability_definition_regression</sys_db_object>
+        <sys_id>1da05fbea8884adc8f87972549046744</sys_id>
+        <sys_metadata>c746dba0c3756590c9f5f71d7a013147</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>itsm_regression_test5</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_scope_delete display_value="">4dc9d44d7a5b4530b9c3ac2a9c830f10</sys_scope_delete>
+        <sys_update_name>ml_capability_definition_regression_c746dba0c3756590c9f5f71d7a013147</sys_update_name>
+        <sys_update_version display_value="ml_capability_definition_regression_c746dba0c3756590c9f5f71d7a013147">05500478c3796590c9f5f71d7a013175</sys_update_version>
+        <sys_updated_by>cnesbittdev</sys_updated_by>
+        <sys_updated_on>2023-03-28 18:07:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

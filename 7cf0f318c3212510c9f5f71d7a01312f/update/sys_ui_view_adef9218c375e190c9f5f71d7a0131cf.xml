@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>itsm_app</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>skonurdev</sys_created_by>
+        <sys_created_on>2023-03-21 18:12:21</sys_created_on>
+        <sys_id>adef9218c375e190c9f5f71d7a0131cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITSM APP</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_ui_view_adef9218c375e190c9f5f71d7a0131cf</sys_update_name>
+        <sys_updated_by>skonurdev</sys_updated_by>
+        <sys_updated_on>2023-03-21 18:12:21</sys_updated_on>
+        <title>ITSM APP</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

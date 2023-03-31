@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-27 19:34:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>622c21968735a150bf60fee6dabb35e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>m2m_app_config_theme_622c21968735a150bf60fee6dabb35e4</sys_update_name>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-27 19:34:10</sys_updated_on>
+        <theme display_value="Makpar">961c6d568735a150bf60fee6dabb3518</theme>
+        <ux_app_configuration display_value="ITSM Application Config">760473dcc3212510c9f5f71d7a0131e0</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</application>
+        <file_path/>
+        <instance_id>d46afe09db49e9183050ac44d49619dc</instance_id>
+        <instance_name>makparcorporationdemo4</instance_name>
+        <name>m2m_app_config_theme_622c21968735a150bf60fee6dabb35e4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>tklockdev</sys_created_by><sys_created_on>2023-03-27 19:34:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>622c21968735a150bf60fee6dabb35e4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package><sys_policy/><sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope><sys_update_name>m2m_app_config_theme_622c21968735a150bf60fee6dabb35e4</sys_update_name><sys_updated_by>tklockdev</sys_updated_by><sys_updated_on>2023-03-27 19:34:10</sys_updated_on><theme display_value="Makpar">961c6d568735a150bf60fee6dabb3518</theme><ux_app_configuration display_value="ITSM Application Config">760473dcc3212510c9f5f71d7a0131e0</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-1166765124</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>33a7385187312d10bf60fee6dabb35ea</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-27 19:34:10</sys_created_on>
+        <sys_id>f62c21968735a150bf60fee6dabb35e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1872490517a0000001</sys_recorded_at>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-27 19:34:10</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>322c21964135a150d02714e5c7f520e6</update_guid>
+        <update_guid_history>322c21964135a150d02714e5c7f520e6:-1166765124</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">5f44f1d28775a150bf60fee6dabb3561</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-27 20:09:43</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>80286739e3774dc0ba3e262a86bf8400</sys_id>
+        <sys_metadata>622c21968735a150bf60fee6dabb35e4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_scope_delete display_value="">4dc9d44d7a5b4530b9c3ac2a9c830f10</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_622c21968735a150bf60fee6dabb35e4</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_622c21968735a150bf60fee6dabb35e4">f62c21968735a150bf60fee6dabb35e6</sys_update_version>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-27 20:09:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

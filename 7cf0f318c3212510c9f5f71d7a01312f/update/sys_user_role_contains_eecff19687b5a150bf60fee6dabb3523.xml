@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_makr2_itsm_app_0.customer" name="x_makr2_itsm_app_0.customer">81f0f318c3212510c9f5f71d7a0131a1</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-27 20:59:55</sys_created_on>
+        <sys_id>eecff19687b5a150bf60fee6dabb3523</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_makr2_itsm_app_0.customer</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_user_role_contains_eecff19687b5a150bf60fee6dabb3523</sys_update_name>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-27 20:59:55</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

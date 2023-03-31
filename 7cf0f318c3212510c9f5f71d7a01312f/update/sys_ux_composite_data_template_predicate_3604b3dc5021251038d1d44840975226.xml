@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_req_item">active=true^assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,cat_item.picture,short_description,price,recurring_price,recurring_frequency,requested_for,quantity,number</field_list>
+        <name>My tasks requested item</name>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Requested item bundle">3a04b3dc592125103fb9cdbbe109f526</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-09 14:04:19</sys_created_on>
+        <sys_id>3604b3dc5021251038d1d44840975226</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My tasks requested item</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_3604b3dc5021251038d1d44840975226</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-09 14:04:19</sys_updated_on>
+        <table>sc_req_item</table>
+        <ux_template display_value="My Tasks - requested item template">3604b3dc6121251012471be271797227</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

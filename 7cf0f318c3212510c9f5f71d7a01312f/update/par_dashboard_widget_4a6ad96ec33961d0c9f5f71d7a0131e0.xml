@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">119d799287b5a150bf60fee6dabb35b8</canvas>
+        <component display_value="Dial">63f050cf050137731a828878839e0b33</component>
+        <component_props>{"configVersion":"22.1.7","minValue":0,"innerRadius":0.7,"valueLabelSize":"md","showZero":true,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"ITSM App Data","sourceType":"table","tableOrViewName":"x_makr2_itsm_app_0_itsm_app_data","id":"dGFibGV4X21ha3IyX2l0c21fYXBwXzBfaXRzbV9hcHBfZGF0YTE2ODAwMDgwODEwMDg=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X21ha3IyX2l0c21fYXBwXzBfaXRzbV9hcHBfZGF0YTE2ODAwMDgwODEwMDg=","id":"ZEdGaWJHVjRYMjFoYTNJeVgybDBjMjFmWVhCd1h6QmZhWFJ6YlY5aGNIQmZaR0YwWVRFMk9EQXdNRGd3T0RFd01EZz0xNjgwMDA4MDgxODAx","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-28 12:55:04</sys_created_on>
+        <sys_id>4a6ad96ec33961d0c9f5f71d7a0131e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>par_dashboard_widget_4a6ad96ec33961d0c9f5f71d7a0131e0</sys_update_name>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-28 12:55:04</sys_updated_on>
+        <visualization/>
+        <w>2</w>
+        <x>4</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
