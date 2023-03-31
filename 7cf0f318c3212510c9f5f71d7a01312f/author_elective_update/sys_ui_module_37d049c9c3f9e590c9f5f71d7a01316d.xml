@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="ITSM App Data">73d009c9c3f9e590c9f5f71d7a013197</application>
+        <filter/>
+        <name>ITSM App Data</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_makr2_itsm_app_0.itsm_app_data_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>skonurdev</sys_created_by>
+        <sys_created_on>2023-03-23 19:12:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37d049c9c3f9e590c9f5f71d7a01316d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITSM App Data</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_ui_module_37d049c9c3f9e590c9f5f71d7a01316d</sys_update_name>
+        <sys_updated_by>skonurdev</sys_updated_by>
+        <sys_updated_on>2023-03-23 19:12:37</sys_updated_on>
+        <table>x_makr2_itsm_app_0_itsm_app_data</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</application>
+        <file_path/>
+        <instance_id>d46afe09db49e9183050ac44d49619dc</instance_id>
+        <instance_name>makparcorporationdemo4</instance_name>
+        <name>sys_ui_module_37d049c9c3f9e590c9f5f71d7a01316d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ITSM App Data">73d009c9c3f9e590c9f5f71d7a013197</application><filter/><name>ITSM App Data</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_makr2_itsm_app_0.itsm_app_data_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>skonurdev</sys_created_by><sys_created_on>2023-03-23 19:12:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>37d049c9c3f9e590c9f5f71d7a01316d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ITSM App Data</sys_name><sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package><sys_policy/><sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope><sys_update_name>sys_ui_module_37d049c9c3f9e590c9f5f71d7a01316d</sys_update_name><sys_updated_by>skonurdev</sys_updated_by><sys_updated_on>2023-03-23 19:12:37</sys_updated_on><table>x_makr2_itsm_app_0_itsm_app_data</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1389974907</payload_hash>
+        <record_name>ITSM App Data</record_name>
+        <reverted_from/>
+        <source>b1095cc9c3b5e590c9f5f71d7a0131bc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>skonurdev</sys_created_by>
+        <sys_created_on>2023-03-23 19:12:37</sys_created_on>
+        <sys_id>fbd049c9c3f9e590c9f5f71d7a01316f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1870fe325e00000001</sys_recorded_at>
+        <sys_updated_by>skonurdev</sys_updated_by>
+        <sys_updated_on>2023-03-23 19:12:37</sys_updated_on>
+        <type>Module</type>
+        <update_guid>37d049c995f9e590d9eea9a54746746f</update_guid>
+        <update_guid_history>37d049c995f9e590d9eea9a54746746f:1389974907</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>skonurdev</sys_created_by>
+        <sys_created_on>2023-03-31 12:29:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>58e2677c6ba44f708e1d8f3c653c9b90</sys_id>
+        <sys_metadata>37d049c9c3f9e590c9f5f71d7a01316d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ITSM App Data</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_scope_delete display_value="">4dc9d44d7a5b4530b9c3ac2a9c830f10</sys_scope_delete>
+        <sys_update_name>sys_ui_module_37d049c9c3f9e590c9f5f71d7a01316d</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_37d049c9c3f9e590c9f5f71d7a01316d">fbd049c9c3f9e590c9f5f71d7a01316f</sys_update_version>
+        <sys_updated_by>skonurdev</sys_updated_by>
+        <sys_updated_on>2023-03-31 12:29:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
