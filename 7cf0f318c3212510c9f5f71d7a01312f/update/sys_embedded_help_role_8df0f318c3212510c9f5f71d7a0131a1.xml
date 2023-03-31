@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_makr2_itsm_app_0.customer" name="x_makr2_itsm_app_0.customer">81f0f318c3212510c9f5f71d7a0131a1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>tklockdev</sys_created_by>
+        <sys_created_on>2023-03-09 13:50:47</sys_created_on>
+        <sys_id>8df0f318c3212510c9f5f71d7a0131a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>81f0f318c3212510c9f5f71d7a0131a1</sys_name>
+        <sys_package display_value="ITSM Application" source="x_makr2_itsm_app_0">7cf0f318c3212510c9f5f71d7a01312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ITSM Application">7cf0f318c3212510c9f5f71d7a01312f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8df0f318c3212510c9f5f71d7a0131a1</sys_update_name>
+        <sys_updated_by>tklockdev</sys_updated_by>
+        <sys_updated_on>2023-03-09 13:50:47</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
